@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatmurawala&show_icons=true&locale=en&layout=compact" alt="shashwatmurawala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&locale=en" alt="shashwatmurawala" /></p>
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&bg_color=00000000)

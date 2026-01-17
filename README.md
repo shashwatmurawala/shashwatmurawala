@@ -36,8 +36,9 @@ class ShashwatMurawala:
             "minor": "Cognitive Science",
             "graduation": "May 2027"
         }
-        self.current_role = "Software Engineer @ Rocket Lab 🚀"
-        self.interests = ["Cloud Architecture", "System Design", "ML/AI"]
+        self.current_role = "ML Researcher @ Algoverse AI Research 🧠"
+        self.research_focus = ["Optimal Transport", "LLM Steering", "Cross-Model Transfer"]
+        self.interests = ["Machine Learning", "Cloud Architecture", "System Design"]
         
     def get_daily_routine(self):
         return {
@@ -119,6 +120,14 @@ me.say_hi()
 
 ## 💼 EXPERIENCE_LOG
 
+### 🧠 **Machine Learning Researcher** @ [Algoverse AI Research](https://algoverse.ai/)
+`Sept 2025 - Present` · California, United States
+- 🔬 Researching **optimal transport methods** for cross-model steering vector transfer in LLMs
+- 📊 Targeting submissions to **EACL SRW 2025**, **ICLR 2026**, **ACL 2026**, and **ICML 2026**
+- 🎯 Investigating affine & nonlinear activation alignment mappings between open LLMs
+- 🧮 Using **2-Wasserstein distance** & **Sinkhorn-regularized optimal-transport** objectives
+- 🤖 Working with **Gemma**, **Qwen**, **Mistral**, and **Llama** model families
+
 ### 🚀 **Software Engineer** @ [Rocket Lab](https://www.rocketlabusa.com/)
 `May 2025 - Aug 2025` · Auckland, New Zealand
 - 🎯 Built real-time infrastructure monitoring with **Prometheus + Grafana** 4-level dashboard
@@ -167,11 +176,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatmurawala&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatmurawala&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwatmurawala&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatmurawala&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -182,11 +191,12 @@ me.say_hi()
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  🎓 CS & Psychology Double Major @ UWaterloo          │
+│  🧠 ML Research on optimal transport for LLMs          │
+│  📄 Targeting top-tier ML conferences (ICLR, ACL, ICML)│
 │  🚀 Built systems used in actual rocket launches       │
 │  ☁️  Managed 200+ cloud systems with 99.9% uptime      │
 │  ⚡ 80% performance improvement in messaging systems   │
 │  🔒 Secured applications by fixing 250+ vulnerabilities│
-│  📈 Optimized Kafka systems for 60% better throughput  │
 └─────────────────────────────────────────────────────────┘
 ```
 

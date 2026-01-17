@@ -1,14 +1,201 @@
-<h1 align="center">Hi 👋, I'm Shashwat Murawala</h1>
-<h3 align="center">A Computer Science Student at the University of Waterloo. I am well versed with Python, Racket, SQL, C/C++, Bash, LaTex, and basics of HTML/CSS, and JavaScript.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatmurawala&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatmurawala" /> </p>
+<!-- Animated ASCII Art Banner -->
+```
+███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝
+███████╗███████║███████║███████╗███████║██║ █╗ ██║███████║   ██║   
+╚════██║██╔══██║██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║   
+███████║██║  ██║██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║   
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
+                    M U R A W A L A                                  
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashwatmurawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwatmurawala" height="30" width="40" /></a>
-<a href="https://instagram.com/shashwat2004_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashwat2004_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Shivymacboi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0052xg" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Cloud+Architect;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-shashwatmurawala.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashwatmurawala.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatmurawala)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shivymacboi/)
+[![Email](https://img.shields.io/badge/Email-smurawal%40uwaterloo.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smurawal@uwaterloo.ca)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shashwatmurawala&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 CURRENTLY_EXECUTING
+
+```python
+class ShashwatMurawala:
+    def __init__(self):
+        self.username = "shashwatmurawala"
+        self.location = "University of Waterloo 🇨🇦"
+        self.education = {
+            "degree": "Bachelor of Computer Science & Psychology",
+            "minor": "Cognitive Science",
+            "graduation": "May 2027"
+        }
+        self.current_role = "Software Engineer @ Rocket Lab 🚀"
+        self.interests = ["Cloud Architecture", "System Design", "ML/AI"]
+        
+    def get_daily_routine(self):
+        return {
+            "🌅 morning": "Coffee + LeetCode",
+            "💻 daytime": "Building scalable systems",
+            "🌙 evening": "Open source contributions",
+            "🌃 night": "Learning new tech stacks"
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together 🔥")
+
+me = ShashwatMurawala()
+me.say_hi()
+```
+
+---
+
+## ⚡ TECH_ARSENAL
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎯 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ DevOps & Cloud
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 EXPERIENCE_LOG
+
+### 🚀 **Software Engineer** @ [Rocket Lab](https://www.rocketlabusa.com/)
+`May 2025 - Aug 2025` · Auckland, New Zealand
+- 🎯 Built real-time infrastructure monitoring with **Prometheus + Grafana** 4-level dashboard
+- ⚡ Optimized custom serialization: **25% faster encoding**, **80% faster decoding**
+- 🔥 Developed internal messaging service: **80% faster** than NATS
+- 📺 Created C# WPF app for **YouTube livestream overlays** during launches
+
+### 💻 **Software Developer** @ [Dayforce](https://www.dayforce.com/)
+`May 2024 - Dec 2024` · Toronto, ON
+- 🧪 Built end-to-end integration testing → **20% reduction** in QA cycles
+- 📊 Kafka-based Hyperscale system: **60% ↑ capacity**, **40% ↓ processing time**
+- 🔒 Remediated **250+ security vulnerabilities** → **35% ↑ code quality**
+
+### ☁️ **Cloud Engineer** @ [WATonomous](https://www.watonomous.ca/)
+`May 2024 - Dec 2024` · Waterloo, ON
+- 🤖 Automated **100+ cloud resources** with Terraform/Ansible → **40% faster** provisioning
+- 🔄 Built **5+ CI/CD pipelines** → **30% ↑ deployment speed**, **20% ↓ downtime**
+- 🖥️ Managed HPC infrastructure: **99.9% uptime** across **200+ systems**
+
+<details>
+<summary>📈 <b>More Experience...</b></summary>
+
+### 📊 **Data Analyst** @ JANA Corporation
+`May 2023 - Aug 2023` · Aurora, ON
+- 🐍 Python tool → **40% ↓ manual processing**
+- ⚡ SIMP-CRA optimization → **25% ↑ data retrieval speed**
+- 🔄 Automated ETL → **30% ↓ processing time**
+
+</details>
+
+---
+
+## 🎨 FEATURED_PROJECTS
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Pathfinding Visualizer](https://github.com/shashwatmurawala)** | Real-time algorithm visualization & comparison engine | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+
+</div>
+
+---
+
+## 📊 GITHUB_ANALYTICS
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatmurawala&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwatmurawala&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS_UNLOCKED
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🎓 CS & Psychology Double Major @ UWaterloo          │
+│  🚀 Built systems used in actual rocket launches       │
+│  ☁️  Managed 200+ cloud systems with 99.9% uptime      │
+│  ⚡ 80% performance improvement in messaging systems   │
+│  🔒 Secured applications by fixing 250+ vulnerabilities│
+│  📈 Optimized Kafka systems for 60% better throughput  │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📫 CONNECT_WITH_ME
+
+<div align="center">
+
+**Looking to collaborate on something awesome? Let's talk!**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shashwatmurawala.com-00D9FF?style=for-the-badge)](https://shashwatmurawala.com)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Chat-EA4335?style=for-the-badge)](mailto:smurawal@uwaterloo.ca)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/shashwatmurawala)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+**⭐ If you find my work interesting, consider starring some repos!**
+
+</div>

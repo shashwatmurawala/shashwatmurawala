@@ -11,7 +11,7 @@
                     M U R A W A L A                                  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Cloud+Architect;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+AI+Researcher;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shashwatmurawala.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashwatmurawala.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatmurawala)

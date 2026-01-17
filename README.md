@@ -160,48 +160,6 @@ me.say_hi()
 
 ---
 
-## 🎨 FEATURED_PROJECTS
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Pathfinding Visualizer](https://github.com/shashwatmurawala)** | Real-time algorithm visualization & comparison engine | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-
-</div>
-
----
-
-## 📊 GITHUB_ANALYTICS
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=shashwatmurawala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatmurawala&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatmurawala&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS_UNLOCKED
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🎓 CS & Psychology Double Major @ UWaterloo          │
-│  🧠 ML Research on optimal transport for LLMs          │
-│  📄 Targeting top-tier ML conferences (ICLR, ACL, ICML)│
-│  🚀 Built systems used in actual rocket launches       │
-│  ☁️  Managed 200+ cloud systems with 99.9% uptime      │
-│  ⚡ 80% performance improvement in messaging systems   │
-│  🔒 Secured applications by fixing 250+ vulnerabilities│
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📫 CONNECT_WITH_ME
 
 <div align="center">

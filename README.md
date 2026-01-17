@@ -180,7 +180,7 @@ me.say_hi()
 
 ### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark))
 
 **⭐ If you find my work interesting, consider starring some repos!**
 

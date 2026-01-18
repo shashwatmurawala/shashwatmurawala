@@ -141,22 +141,11 @@ me.say_hi()
 - 📊 Kafka-based Hyperscale system: **60% ↑ capacity**, **40% ↓ processing time**
 - 🔒 Remediated **250+ security vulnerabilities** → **35% ↑ code quality**
 
-### ☁️ **Cloud Engineer** @ [WATonomous](https://www.watonomous.ca/)
-`May 2024 - Dec 2024` · Waterloo, ON
-- 🤖 Automated **100+ cloud resources** with Terraform/Ansible → **40% faster** provisioning
-- 🔄 Built **5+ CI/CD pipelines** → **30% ↑ deployment speed**, **20% ↓ downtime**
-- 🖥️ Managed HPC infrastructure: **99.9% uptime** across **200+ systems**
-
-<details>
-<summary>📈 <b>More Experience...</b></summary>
-
 ### 📊 **Data Analyst** @ JANA Corporation
 `May 2023 - Aug 2023` · Aurora, ON
 - 🐍 Python tool → **40% ↓ manual processing**
 - ⚡ SIMP-CRA optimization → **25% ↑ data retrieval speed**
 - 🔄 Automated ETL → **30% ↓ processing time**
-
-</details>
 
 ---
 
